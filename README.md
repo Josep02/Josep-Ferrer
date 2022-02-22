@@ -9,4 +9,4 @@ Ejercicios Git
 5. Añade ahora en la Wiki del proyecto información sobre como instalar, ejecutar y usar la aplicación (3 páginas diferentes enlazadas y organizadas desde la portada de la Wiki).
 6. Registra ahora una nueva incidencia de tipo mejora para el repositorio y programa dicha mejora. En el momento de hacer el commit del código que la añade, haz que se marque como corregida.
 7. Amplia el README del proyecto y asegurate de que, al menos, incluyes la siguiente información
-8. '''
+'''
