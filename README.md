@@ -11,4 +11,4 @@ Ejercicios Git
 7. Amplia el README del proyecto y asegurate de que, al menos, incluyes la siguiente información
 ```
 
-@Josep02
+@github/Josep02
