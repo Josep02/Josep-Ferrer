@@ -10,3 +10,5 @@ Ejercicios Git
 6. Registra ahora una nueva incidencia de tipo mejora para el repositorio y programa dicha mejora. En el momento de hacer el commit del código que la añade, haz que se marque como corregida.
 7. Amplia el README del proyecto y asegurate de que, al menos, incluyes la siguiente información
 ```
+
+@Josep02
